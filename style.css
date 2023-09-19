@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #0D192C;
+}
+
+.container {
+    background-color: #15263F;
+    padding: 24px;
+    height: 596px;
+    width: 350px;
+    border-radius: 15px;
+}
+
+.img {
+    width: 100%;
+}
